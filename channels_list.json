@@ -50,5 +50,22 @@
   { "id": "news24-tv", "name": "News24 TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/news24-channel-seeklogo.png" },
   { "id": "nexus-tv", "name": "Nexus TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/Nexus_Television_Logo.png" },
   { "id": "peace-tv-bangla", "name": "Peace TV Bangla", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/peace-tv-bangla.png" },
-  { "id": "sa-tv", "name": "SA TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/SA_TV_Bangladesh_Logo.png" }
+  { "id": "sa-tv", "name": "SA TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/SA_TV_Bangladesh_Logo.png" },
+  { "id": "A_sports", "name": "A sports", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/A_Sports_Logo.png" },
+  { "id": "T_Sports", "name": "T Sports", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/T_Sports_logo.svg.png" },
+  { "id": "Star_Spts_1", "name": "Star Spts 1", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/Star_Sports_1_HD.png" },
+  { "id": "Star_Sports_1", "name": "Star Sports 1", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/Star_Sports_1_HD.png" },
+  { "id": "Star_Sports_2", "name": "Star Sports 2", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/Star_Sports_2_HD.png" },
+  { "id": "Sony_Sports_Ten_1", "name": "Sony Sports Ten 1", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/Sony_Sports_Ten_1" },
+  { "id": "Sony_Sports_Ten_2", "name": "Sony Sports Ten 2", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/Sony_Sports_Ten_2.png" },
+  { "id": "Sony_Sports_Ten_3", "name": "Sony Sports Ten 3", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/Sony_Sports_Ten_3.png" },
+  { "id": "Ten_Cricket_HD", "name": "Ten Cricket HD", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/ten-ckt-logo.png" },
+  { "id": "REAL_MADRID", "name": "REAL MADRID", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/REAL-MADRID.png" },
+  { "id": "Ptv_sports", "name": "Ptv sports", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/PTV_Logo.png" },
+  { "id": "Fox_Sports_2", "name": "Fox Sports 2", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/FS2_logo_2015.svg.png" },
+  { "id": "FIFA", "name": "FIFA", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/2026-FIFA-Logo.png" },
+  { "id": "FIFA+", "name": "FIFA+", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/fifa+.png" },
+  { "id": "Bein_Sports_2", "name": "Bein Sports 2", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/Logo_bein_sports_2.png" },
+  { "id": "Bein_Sports_3", "name": "Bein Sports 3", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/Logo_bein_sports_3.png" },
+  { "id": "WILLOW_LIVE", "name": "WILLOW LIVE", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/willow-logo.png" }
 ]
