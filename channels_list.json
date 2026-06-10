@@ -1,6 +1,7 @@
 [
   { "id": "zee-bangla", "name": "Zee Bangla", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/Zee_Bangla_logo.png" },
   { "id": "BTV", "name": "BTV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/Btv-Fifa-logo.png" },
+  { "id": "somoytv", "name": "Somoy Tv", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/Somoy-tv-Fifa-logo.png" },
   { "id": "star-jalsa-hd", "name": "Star Jalsa HD", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/Star_Jalsha.png" },
   { "id": "jalsha-movies-hd", "name": "Jalsha Movies HD", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/jalsha_movie.png" },
   { "id": "btv-chattogram", "name": "BTV Chattogram", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/Bangladesh_Television_Logo.svg.png" },
@@ -53,7 +54,7 @@
   { "id": "peace-tv-bangla", "name": "Peace TV Bangla", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/peace-tv-bangla.png" },
   { "id": "sa-tv", "name": "SA TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/SA_TV_Bangladesh_Logo.png" },
   { "id": "A_sports", "name": "A sports", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/A_Sports_Logo.png" },
-  { "id": "T_Sports", "name": "T Sports", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/T_Sports_logo.svg.png" },
+  { "id": "T_Sports", "name": "T Sports", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/Tsports-Fifa-logo.png" },
   { "id": "Star_Spts_1", "name": "Star Spts 1", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/Star_Sports_1_HD.png" },
   { "id": "Star_Sports_2", "name": "Star Sports 2", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/Star_Sports_2_HD.png" },
   { "id": "Sony_Sports_Ten_1", "name": "Sony Sports Ten 1", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tvlogo/Sony_Sports_Ten_1.png" },
