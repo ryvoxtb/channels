@@ -1,79 +1,352 @@
 [
-  { "id": "ananda-tv", "name": "Ananda TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/anandatv.png" },
-  { "id": "asian-tv", "name": "Asian TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/asiantv.png" },
-  { "id": "atn-bangla", "name": "ATN Bangla", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/atnbangla.png" },
-  { "id": "atn-bangla-uk", "name": "ATN Bangla UK", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/atnbanglauk.png" },
-  { "id": "atn-news", "name": "ATN News", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/atnnews.png" },
-  { "id": "ayna-tv", "name": "Ayna TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/aynatv.png" },
-  { "id": "azan-tv-canada", "name": "Azan TV Canada", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/azantvcanada.png" },
-  { "id": "akash-8-tv", "name": "AKASH 8 TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/aakash-aath-tv.png" },
-  { "id": "colors-bangla", "name": "Colors Bangla", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/Colors_Bangla.png" },
-  { "id": "enter-10", "name": "ENTERR 10", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/ENTERR_10.png" },
-  { "id": "jalsha-movies-hd", "name": "Jalsha Movies", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/jalshamovies.png" },
-  { "id": "kolkata-tv", "name": "Kolkata TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/Kolkata_TV.png" },
-  { "id": "rongeen-tv", "name": "Rongeen TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/Rongeen_TV.png" },
-  { "id": "star-jalsa-hd", "name": "Star Jalsha", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/starjalsha.png" },
-  { "id": "tv9-bangla", "name": "TV9 Bangla", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/TV9_Bangla.png" },
-  { "id": "zee-bangla", "name": "Zee Bangla", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/zeebangla.png" },
-  { "id": "zee-24-ghanta", "name": "ZEE 24 GHANTA", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/ZEE_24_GHANTA.png" },
-  { "id": "banglavision", "name": "Banglavision", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/banglavision.png" },
-  { "id": "bijoy-tv", "name": "BIJOY TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/BIJOY_TV_Logo_BD.png" },
-  { "id": "boishakhi-tv", "name": "Boishakhi TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/boishakhitv.png" },
-  { "id": "BTV", "name": "BTV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/btv.png" },
-  { "id": "btv-chattogram", "name": "BTV Chattogram", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/btvchattogram.png" },
-  { "id": "channel-1", "name": "Channel 1", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/channel1.png" },
-  { "id": "channel-24", "name": "Channel 24", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/channel24.png" },
-  { "id": "channel-9", "name": "Channel 9", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/channel9.png" },
-  { "id": "channel-s-bd", "name": "Channel S BD", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/channelsbd.png" },
-  { "id": "channel-s-uk", "name": "Channel S UK", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/channelsuk.png" },
-  { "id": "channeli", "name": "Channel i", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/channeli.png" },
-  { "id": "dbc-news", "name": "DBC News", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/dbcnews.png" },
-  { "id": "deen-tv-uk", "name": "Deen TV UK", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/deentvuk.png" },
-  { "id": "desh-tv", "name": "Desh TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/deshtv.png" },
-  { "id": "deepto-tv", "name": "Deepto TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/Deepto-TV.png" },
-  { "id": "deshebideshe-tv-canada", "name": "Deshebideshe TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/deshebideshetv.png" },
-  { "id": "deshi-tv", "name": "Deshi TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/deshitv.png" },
-  { "id": "ekattor-tv", "name": "Ekattor TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/ekattortv.png" },
-  { "id": "ekhon-tv", "name": "Ekhon TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/ekhontv.png" },
-  { "id": "ekushey-tv", "name": "Ekushey TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/ekusheytv.png" },
-  { "id": "ep-tv", "name": "EP TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/eptv.png" },
-  { "id": "galaxy-tv", "name": "Galaxy TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/galaxytv.png" },
-  { "id": "gazi-television-gtv", "name": "GTV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/gtv.png" },
-  { "id": "g-series", "name": "G SERIES", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/G-SERIES.png" },
-  { "id": "global-tv-bangladesh", "name": "Global TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/globaltv.png" },
-  { "id": "green-tv", "name": "Green TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/greentv.png" },
-  { "id": "iqra-bangla-tv-uk", "name": "Iqra Bangla TV UK", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/iqrabanglatvuk.png" },
-  { "id": "islam-ch-bangla", "name": "Islam Ch Bangla", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/islamchbangla.png" },
-  { "id": "jago-news-24", "name": "Jago News 24", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/jagonews24.png" },
-  { "id": "jamuna", "name": "Jamuna", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/jamuna.png" },
-  { "id": "madani-ch-bangla", "name": "Madani Ch Bangla", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/madanichbangla.png" },
-  { "id": "makkah-live", "name": "Makkah Live", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/makkahlive.png" },
-  { "id": "makkah-tv", "name": "Makkah TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/makkahtv.png" },
-  { "id": "maasranga-tv", "name": "Maasranga TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/Maasranga_TV.png" },
-  { "id": "medina-live", "name": "Medina Live", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/medinalive.png" },
-  { "id": "mohona-tv", "name": "Mohona TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/mohonatv.png" },
-  { "id": "movie-bangla", "name": "Movie Bangla", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/moviebangla.png" },
-  { "id": "my-tv", "name": "MY TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/mytv.png" },
-  { "id": "news24-tv", "name": "News 24 TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/news24tv.png" },
-  { "id": "nexus-tv", "name": "Nexus TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/nexustv.png" },
-  { "id": "ntv", "name": "NTV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/ntv.png" },
-  { "id": "peace-tv-bangla", "name": "Peace TV Bangla", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/peacetvbangla.png" },
-  { "id": "rtv", "name": "RTV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/rtv.png" },
-  { "id": "rajdhani-tv", "name": "RAJDHANI TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/rajdhanitv.png" },
-  { "id": "sa-tv", "name": "SA TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/satv.png" },
-  { "id": "somoytv", "name": "Somoy TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/somoytv.png" },
-  { "id": "star-news", "name": "STAR NEWS", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/STAR-NEWS.png" },
-  { "id": "srk-tv", "name": "SRK TV", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/SRK-TV.png" },
-  { "id": "T_Sports", "name": "T Sports", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/tsports.png" },
-  { "id": "a-sports", "name": "A Sports", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/asports.png" },
-  { "id": "Star_Spts_1", "name": "Star Sports 1", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/starsports1.png" },
-  { "id": "Star_Sports_2", "name": "Star Sports 2", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/starsports2.png" },
-  { "id": "Sony_Sports_Ten_1", "name": "Sony Sports Ten 1", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/sonysportsten1.png" },
-  { "id": "Sony_Sports_Ten_2", "name": "Sony Sports Ten 2", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/sonysportsten2.png" },
-  { "id": "Sony_Sports_Ten_5", "name": "Sony Sports Ten 5", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/sonysportsten5.png" },
-  { "id": "Ten_Cricket_HD", "name": "Ten Cricket HD", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/tencrickethd.png" },
-  { "id": "Ptv_sports", "name": "Ptv Sports", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/ptvsports.png" },
-  { "id": "Fox_Sports_2", "name": "Fox Sports", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/foxsports.png" },
-  { "id": "WILLOW_LIVE", "name": "WILLOW LIVE", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/willowlive.png" },
-  { "id": "Bein_Sports_2", "name": "Bein Sports", "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/beinsports.png" }
+  {
+    "id": "ananda-tv",
+    "name": "Ananda TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/anandatv.png"
+  },
+  {
+    "id": "asian-tv",
+    "name": "Asian TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/asiantv.png"
+  },
+  {
+    "id": "atn-bangla",
+    "name": "ATN Bangla",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/atnbangla.png"
+  },
+  {
+    "id": "atn-news",
+    "name": "ATN News",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/atnnews.png"
+  },
+  {
+    "id": "sun-bangla",
+    "name": "SUN BANGLA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sun_Bangla_Logo_2026_01.png"
+  },
+  {
+    "id": "Colors-Bangla-CM",
+    "name": "Colors Bangla CM",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png"
+  },
+  {
+    "id": "COLORS-BANGLA",
+    "name": "Colors Bangla",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/Colors_Bangla.png"
+  },
+  {
+    "id": "enter-10",
+    "name": "ENTERR 10",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/ENTERR_10.png"
+  },
+  {
+    "id": "jalsha-movies",
+    "name": "Jalsha Movies",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/jalshamovies.png"
+  },
+  {
+    "id": "SONY-AATH",
+    "name": "Sony Aath",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/sony_aath.png"
+  },
+  {
+    "id": "STAR-JALSHA",
+    "name": "Star Jalsha",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/starjalsha.png"
+  },
+  {
+    "id": "ZEE-BANGLA",
+    "name": "Zee Bangla",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/zeebangla.png"
+  },
+  {
+    "id": "Zee_bangla_cinema",
+    "name": "Zee Bangla Cinema",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/Zee_bangla_cinema.png"
+  },
+  {
+    "id": "banglavision",
+    "name": "Banglavision",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/banglavision.png"
+  },
+  {
+    "id": "bijoy-tv",
+    "name": "BIJOY TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/BIJOY_TV_Logo_BD.png"
+  },
+  {
+    "id": "boishakhi-tv",
+    "name": "Boishakhi TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/boishakhitv.png"
+  },
+  {
+    "id": "Bangla_TV",
+    "name": "Bangla TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/Bangla_TV_logo.png"
+  },
+  {
+    "id": "BTV",
+    "name": "BTV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/btv.png"
+  },
+  {
+    "id": "channel-1",
+    "name": "Channel 1",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/channel1.png"
+  },
+  {
+    "id": "channel-24",
+    "name": "Channel 24",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/channel24.png"
+  },
+  {
+    "id": "channel-9",
+    "name": "Channel 9",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/channel9.png"
+  },
+  {
+    "id": "channeli",
+    "name": "Channel i",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/channeli.png"
+  },
+  {
+    "id": "dbc-news",
+    "name": "DBC News",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/dbcnews.png"
+  },
+  {
+    "id": "desh-tv",
+    "name": "Desh TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/deshtv.png"
+  },
+  {
+    "id": "deepto-tv",
+    "name": "Deepto TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/Deepto-TV.png"
+  },
+  {
+    "id": "ekattor-tv",
+    "name": "Ekattor TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/ekattortv.png"
+  },
+  {
+    "id": "ekhon-tv",
+    "name": "Ekhon TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/ekhontv.png"
+  },
+  {
+    "id": "ekushey-tv",
+    "name": "Ekushey TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/ekusheytv.png"
+  },
+  {
+    "id": "gazi-television-gtv",
+    "name": "GTV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/gtv.png"
+  },
+  {
+    "id": "g-series",
+    "name": "G SERIES",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/G-SERIES.png"
+  },
+  {
+    "id": "jago-news-24",
+    "name": "Jago News 24",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/jagonews24.png"
+  },
+  {
+    "id": "jamuna",
+    "name": "Jamuna",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/jamuna.png"
+  },
+  {
+    "id": "maasranga-tv",
+    "name": "Maasranga TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/Maasranga_TV.png"
+  },
+  {
+    "id": "mohona-tv",
+    "name": "Mohona TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/mohonatv.png"
+  },
+  {
+    "id": "movie-bangla",
+    "name": "Movie Bangla",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/moviebangla.png"
+  },
+  {
+    "id": "my-tv",
+    "name": "MY TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/mytv.png"
+  },
+  {
+    "id": "news24-tv",
+    "name": "News 24 TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/news24tv.png"
+  },
+  {
+    "id": "nexus-tv",
+    "name": "Nexus TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/nexustv.png"
+  },
+  {
+    "id": "ntv",
+    "name": "NTV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/ntv.png"
+  },
+  {
+    "id": "nagorik-tv",
+    "name": "Nagorik TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/nagorik-tv-logo-png.png"
+  },
+  {
+    "id": "rtv",
+    "name": "RTV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/rtv.png"
+  },
+  {
+    "id": "rajdhani-tv",
+    "name": "RAJDHANI TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/rajdhanitv.png"
+  },
+  {
+    "id": "sa-tv",
+    "name": "SA TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/satv.png"
+  },
+  {
+    "id": "somoytv",
+    "name": "Somoy TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/somoytv.png"
+  },
+  {
+    "id": "star-news",
+    "name": "STAR NEWS",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/STAR-NEWS.png"
+  },
+  {
+    "id": "srk-tv",
+    "name": "SRK TV",
+    "logo": "https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnail_backgrounds_01b5b56aa2e80823f23cc9d708141d1a_goplay_srk_tv_landscape.jpg"
+  },
+  {
+    "id": "tsports",
+    "name": "T sports",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/tsports.png"
+  },
+  {
+    "id": "A-Sports",
+    "name": "A Sports",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/asports.png"
+  },
+  {
+    "id": "STAR-SPORTS-1",
+    "name": "Star Sports 1",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/starsports1.png"
+  },
+  {
+    "id": "Star-Sports-2",
+    "name": "Star Sports 2",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/starsports2.png"
+  },
+  {
+    "id": "Sony-Ten-1",
+    "name": "Sony Sports Ten 1",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/sonysportsten1.png"
+  },
+  {
+    "id": "Sony-Ten-2",
+    "name": "Sony Sports Ten 2",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/sonysportsten2.png"
+  },
+  {
+    "id": "Sony-Ten-5",
+    "name": "Sony Sports Ten 5",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/sonysportsten5.png"
+  },
+  {
+    "id": "Ten_Cricket_HD",
+    "name": "Ten Cricket HD",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/tencrickethd.png"
+  },
+  {
+    "id": "ptv",
+    "name": "P TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/ptvsports.png"
+  },
+  {
+    "id": "WILLOW_LIVE",
+    "name": "WILLOW LIVE",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/willowlive.png"
+  },
+  {
+    "id": "COLORS_HD",
+    "name": "COLORS HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/960px-Colors_TV_logo.svg.png"
+  },
+  {
+    "id": "SONY-TELEVISION",
+    "name": "SONY TELEVISION",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png"
+  },
+  {
+    "id": "SONY-SAV",
+    "name": "SONY SAB",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/SONY_SAB_SD_Logo_2022.png"
+  },
+  {
+    "id": "hum-tv",
+    "name": "Hum Tv",
+    "logo": "https://upload.wikimedia.org/wikipedia/bn/9/94/%E0%A6%B9%E0%A6%BE%E0%A6%AE_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%A9.png"
+  },
+  {
+    "id": "star-plus",
+    "name": "Star Plus",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png"
+  },
+  {
+    "id": "SONY-PIX",
+    "name": "SONY PIX",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png"
+  },
+  {
+    "id": "goldmines",
+    "name": "GOLDMINES MOVIES",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Goldmines_logo.png"
+  },
+  {
+    "id": "b4u-movies",
+    "name": "B4U Movies",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/24u-move.png"
+  },
+  {
+    "id": "sonymax",
+    "name": "SONY MAX",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/60/SONY_MAX_Logo_2022.png"
+  },
+  {
+    "id": "discovery",
+    "name": "DISCOVERY",
+    "logo": "https://w7.pngwing.com/pngs/637/997/png-transparent-discovery-channel-television-channel-television-show-television-documentary-science-television-globe-logo-thumbnail.png"
+  },
+  {
+    "id": "animal",
+    "name": "ANIMAL PLANET",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
+  },
+  {
+    "id": "bbc_earth",
+    "name": "SONY BBC EARTH",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png"
+  },
+  {
+    "id": "id_hd",
+    "name": "ID HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/de/2/22/ID_HD_Logo.png"
+  },
+  {
+    "id": "discovery_science",
+    "name": "DISCOVERY SCIENCE",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png"
+  }
 ]
