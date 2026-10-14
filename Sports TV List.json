@@ -1,1 +1,52 @@
-
+[
+  {
+    "id": "tsports",
+    "name": "T sports",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/tsports.png"
+  },
+  {
+    "id": "A-Sports",
+    "name": "A Sports",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/asports.png"
+  },
+  {
+    "id": "STAR-SPORTS-1",
+    "name": "Star Sports 1",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/starsports1.png"
+  },
+  {
+    "id": "Star-Sports-2",
+    "name": "Star Sports 2",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/starsports2.png"
+  },
+  {
+    "id": "Sony-Ten-1",
+    "name": "Sony Sports Ten 1",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/sonysportsten1.png"
+  },
+  {
+    "id": "Sony-Ten-2",
+    "name": "Sony Sports Ten 2",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/sonysportsten2.png"
+  },
+  {
+    "id": "Sony-Ten-5",
+    "name": "Sony Sports Ten 5",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/sonysportsten5.png"
+  },
+  {
+    "id": "Ten_Cricket_HD",
+    "name": "Ten Cricket HD",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/tencrickethd.png"
+  },
+  {
+    "id": "ptv",
+    "name": "P TV",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/ptvsports.png"
+  },
+  {
+    "id": "WILLOW_LIVE",
+    "name": "WILLOW LIVE",
+    "logo": "https://raw.githubusercontent.com/ryvoxtb/image/refs/heads/main/tv-chanel-logo/willowlive.png"
+  }  
+]
